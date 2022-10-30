@@ -1,0 +1,1 @@
+{"uuid":"aeaac992-15fd-4101-834c-219ba5e4dfb4","name":"com.todo.qacart.base.Base.setup","children":["7f266f50-2861-4b53-95f3-6cfed307c3f0"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666629944160,"stop":1666629949168}],"afters":[],"start":1666629944160,"stop":1666629949169}
