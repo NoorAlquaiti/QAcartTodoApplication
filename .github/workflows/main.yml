@@ -15,5 +15,4 @@ jobs:
           cache: maven
           distribution: "temurin"
       - uses: browser-actions/setup-chrome@latest
-      - run:  eval $(/opt/homebrew/bin/brew shellenv)
       - run: mvn clean test
