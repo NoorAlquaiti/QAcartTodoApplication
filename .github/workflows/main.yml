@@ -16,4 +16,4 @@ jobs:
           distribution: "temurin"
       - uses: browser-actions/setup-chrome@latest
       - run:  eval $(/opt/homebrew/bin/brew shellenv)
-      - run:  -e mvn clean test
+      - run:  mvn clean test
